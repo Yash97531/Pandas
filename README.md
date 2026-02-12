@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Yash97531/python/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Yash97531/python/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Yash97531/Pandas/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Yash97531/Pandas/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Yash97531/python/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Yash97531/python/tree/master/1148-article-views-i) |
 | [1667-fix-names-in-a-table](https://github.com/Yash97531/python/tree/master/1667-fix-names-in-a-table) |
